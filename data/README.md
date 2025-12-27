@@ -3,7 +3,7 @@
 This folder contains documentation related to the data used in the D502 Data Analytics Capstone project, *An Analysis of Airline Performance: January 2023 – June 2025*.
 
 ## Raw Data
-The raw dataset from the U.S. Department of Transportation’s Bureau of Transportation Statistics (BTS) is in this repository as well as the dataset definitions. The dataset can also be downloaded directly from the BTS website:
+The raw dataset from the U.S. Department of Transportation’s Bureau of Transportation Statistics (BTS) is in this repository as well as the dataset definitions and cleaned data file that is created through the Jupyter Notebook pre-processing. The dataset can also be downloaded directly from the BTS website:
 
 https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp?20=E
 
