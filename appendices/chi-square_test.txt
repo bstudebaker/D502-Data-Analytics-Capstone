@@ -1,0 +1,4 @@
+Chi-square statistic: 1499.1042177023949
+Degrees of freedom: 20
+p-value: 6.19937299587784e-306
+Reject the null hypothesis: There is a significant association between Airline and Delay status.

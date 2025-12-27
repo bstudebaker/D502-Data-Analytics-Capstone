@@ -1,0 +1,5 @@
+#OH vs PT
+
+t-statistic: 5.472696709103012
+p-value: 4.672675600966579e-08
+Reject the null hypothesis: There is a significant difference in average delay minutes between Airline A and Airline B.
